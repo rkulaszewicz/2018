@@ -9,10 +9,10 @@
 * [Wymagane dokumenty](http://mfi.ug.edu.pl/studenci/komunikaty_dziekanatu/egzaminy_magisterskie/wymagane_dokumenty)
 * [Prace magisterskie](https://inf.ug.edu.pl/prace-magisterskie)
 * [Warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
-* Aktualnie wszystkie prace są sprawdzane przez system [Plagiat](https://plagiat.pl).
-  Dlatego przed oddaniem pracy warto sprawdzić czy występujące w nich teksty
-  nie zostały splagiatowane. Przykładowo, bardzo bardzo prawdopodobne jest, że
-  będzie to dotyczyć fragmentów kodu zamieszczonych w pracy, bo systemy 
+* Aktualnie każda praca jest sprawdzana przez system [Plagiat](https://plagiat.pl).
+  Dlatego przed oddaniem pracy warto sprawdzić, czy występujące w niej teksty
+  nie zostały splagiatowane. Przykładowo bardzo bardzo prawdopodobne jest, że
+  będzie to dotyczyć fragmentów kodu zamieszczonych w pracy, bo systemy
   (anty)plagiatowe porównują zawartość internetu z zawartością naszej pracy.
 
 Oryginał pracy należy umieścić w repozytorium prywatnym na GitHub.
