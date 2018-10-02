@@ -1,4 +1,4 @@
-## Seminarium 2018/19
+## Seminarium 2018/19, semestr zimowy
 
 > On the average, five times as many people read the headline as read the body copy.<br>
 > When you have written your headline, you have spent eighty cents out of your dollar.<br>
@@ -6,7 +6,7 @@
 
 ## Rzeczy podstawowe
 
-* **Deadline** – do końca semestru pierwsza wersja pracy i kod działającej aplikacji powinny
+* **Deadline** – do końca tego semestru pierwsza wersja pracy i kod działającej aplikacji powinny
   znaleźć się w prywatnym repozytorium na serwerze GitHub.
   Aplikacja powinna dać się uruchomić w kontenerze Docker.
 * Aktualnie każda praca jest sprawdzana przez system [Plagiat](https://plagiat.pl).
