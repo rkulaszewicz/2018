@@ -6,9 +6,9 @@
 
 ## Rzeczy podstawowe
 
-* **Deadline** – do końca semestru pierwsza wersja pracy i kodu działającej aplikacji powinny
-  być w prywatnym repozytorium na serwerze GitHub. Aplikacja apowinna dać się uruchomić
-  w kontenerze Docker.
+* **Deadline** – do końca semestru pierwsza wersja pracy i kod działającej aplikacji powinny
+  znaleźć się w prywatnym repozytorium na serwerze GitHub.
+  Aplikacja apowinna dać się uruchomić w kontenerze Docker.
 * Aktualnie każda praca jest sprawdzana przez system [Plagiat](https://plagiat.pl).
   Dlatego przed oddaniem pracy warto sprawdzić, czy występujące w niej teksty
   nie zostały splagiatowane. Przykładowo bardzo bardzo prawdopodobne jest, że
