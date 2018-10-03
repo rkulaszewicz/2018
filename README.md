@@ -1,4 +1,4 @@
-## Seminarium 2018/19
+## Seminarium 2018/19, semestr zimowy
 
 > On the average, five times as many people read the headline as read the body copy.<br>
 > When you have written your headline, you have spent eighty cents out of your dollar.<br>
@@ -6,14 +6,18 @@
 
 ## Rzeczy podstawowe
 
-* [Wymagane dokumenty](http://mfi.ug.edu.pl/studenci/komunikaty_dziekanatu/egzaminy_magisterskie/wymagane_dokumenty)
-* [Prace magisterskie](https://inf.ug.edu.pl/prace-magisterskie)
-* [Warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
+* **Deadline** – do końca tego semestru pierwsza wersja pracy i kod działającej aplikacji powinny
+  znaleźć się w prywatnym repozytorium na serwerze GitHub.
+  Aplikacja powinna dać się uruchomić w kontenerze Docker.
 * Aktualnie każda praca jest sprawdzana przez system [Plagiat](https://plagiat.pl).
   Dlatego przed oddaniem pracy warto sprawdzić, czy występujące w niej teksty
   nie zostały splagiatowane. Przykładowo bardzo bardzo prawdopodobne jest, że
   będzie to dotyczyć fragmentów kodu zamieszczonych w pracy, bo systemy
   (anty)plagiatowe porównują zawartość internetu z zawartością naszej pracy.
+* [Wymagane dokumenty](http://mfi.ug.edu.pl/studenci/komunikaty_dziekanatu/egzaminy_magisterskie/wymagane_dokumenty)
+* [Prace magisterskie](https://inf.ug.edu.pl/prace-magisterskie)
+* [Warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
+
 
 Oryginał pracy należy umieścić w repozytorium prywatnym na GitHub.
 W pracach zespołowych należy zastosować się do wskazówek opisanych w artykule
