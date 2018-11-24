@@ -18,6 +18,9 @@
 * [Prace magisterskie](https://inf.ug.edu.pl/prace-magisterskie)
 * [Warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
 
+> It helps to organize your thoughts beforehand by thinking about the things<br>
+> you expect you’ll be asked and then reflecting on how you might answer [...]<br>
+> – Terry Gross
 
 Oryginał pracy należy umieścić w repozytorium prywatnym na GitHub.
 W pracach zespołowych należy zastosować się do wskazówek opisanych w artykule
