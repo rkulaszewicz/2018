@@ -6,14 +6,30 @@
 
 ## Rzeczy podstawowe
 
-* **Deadline** – do końca tego semestru pierwsza wersja pracy i kod działającej aplikacji powinny
-  znaleźć się w prywatnym repozytorium na serwerze GitHub.
-  Aplikacja powinna dać się uruchomić w kontenerze Docker.
-* Aktualnie każda praca jest sprawdzana przez system [Plagiat](https://plagiat.pl).
-  Dlatego przed oddaniem pracy warto sprawdzić, czy występujące w niej teksty
-  nie zostały splagiatowane. Przykładowo bardzo bardzo prawdopodobne jest, że
-  będzie to dotyczyć fragmentów kodu zamieszczonych w pracy, bo systemy
-  (anty)plagiatowe porównują zawartość internetu z zawartością naszej pracy.
+Harmonogram dla prac, których obrony są przewidziane w czerwcu/lipcu:
+
+* *studia dzienne*: do 30.04.2019 należy oddać pierwszą wersję pracy
+* *studia zaoczne*: do 13.04.2019 należy oddać pierwszą wersję pracy
+
+Harmonogram dla prac, których obrony są przewidziane w październiku/listopadzie:
+
+* *studia dzienne*: do ??.06.2019 należy oddać pierwszą wersję pracy
+* *studia zaoczne*: do ??.06.2019 należy oddać pierwszą wersję pracy
+
+Pierwsza wersja pracy, to wydrukowana cała praca i działający program
+(o ile jest częścią pracy). Ponadto, tekst pracy i kod działającej aplikacji powinny
+znaleźć się w prywatnym repozytorium na serwerze GitHub.
+
+<!-- Aplikacja powinna dać się uruchomić w kontenerze Docker. -->
+
+Każda praca będzie sprawdzana **Jednolitym Systemie Plagiatowym**,
+zob. [Analiza Raportu – wskazówki](https://jsa.opi.org.pl/centrum-pomocy/baza-wiedzy/analiza-raportu/).
+
+Dlatego przed oddaniem pracy warto sprawdzić, czy występujące w niej teksty
+nie zostały splagiatowane. Przykładowo bardzo bardzo prawdopodobne jest, że
+będzie to dotyczyć fragmentów kodu zamieszczonych w pracy, bo systemy
+(anty)plagiatowe porównują zawartość internetu z zawartością naszej pracy.
+
 * [Wymagane dokumenty](http://mfi.ug.edu.pl/studenci/komunikaty_dziekanatu/egzaminy_magisterskie/wymagane_dokumenty)
 * [Prace magisterskie](https://inf.ug.edu.pl/prace-magisterskie)
 * [Warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
