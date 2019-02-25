@@ -4,17 +4,29 @@
 > When you have written your headline, you have spent eighty cents out of your dollar.<br>
 > — David Ogilvy
 
+Terminy seminariów dla studiów dziennych:
+czwartki, 7.03, 21.03, 4.04, 18.04, 16.05, 30.05.
+
+
 ## Rzeczy podstawowe
 
-Harmonogram dla prac, których obrony są przewidziane w czerwcu/lipcu:
+Harmonogram dla prac **magisterskich**, których obrony są przewidziane w czerwcu/lipcu:
 
 * *studia dzienne*: do 30.04.2019 należy oddać pierwszą wersję pracy
 * *studia zaoczne*: do 13.04.2019 należy oddać pierwszą wersję pracy
 
-Harmonogram dla prac, których obrony są przewidziane w październiku/listopadzie:
+Harmonogram dla prac **magisterskich**, których obrony są przewidziane w październiku/listopadzie:
 
-* *studia dzienne*: do ??.06.2019 należy oddać pierwszą wersję pracy
-* *studia zaoczne*: do ??.06.2019 należy oddać pierwszą wersję pracy
+* *studia dzienne*: do 30.05.2019 należy oddać pierwszą wersję pracy
+* *studia zaoczne*: do 01.06.2019 należy oddać pierwszą wersję pracy
+
+Harmonogram dla prac **licencjackich**, których obrony są przewidziane w czerwcu/lipcu:
+
+* *studia zaoczne*: do 13.04.2019 należy oddać pierwszą wersję pracy
+
+Harmonogram dla prac **licencjackich**, których obrony są przewidziane w październiku/listopadzie:
+
+* *studia zaoczne*: do 01.06.2019 należy oddać pierwszą wersję pracy
 
 Pierwsza wersja pracy, to wydrukowana cała praca i działający program
 (o ile jest częścią pracy). Ponadto, tekst pracy i kod działającej aplikacji powinny
