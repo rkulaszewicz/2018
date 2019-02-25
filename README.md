@@ -4,8 +4,8 @@
 > When you have written your headline, you have spent eighty cents out of your dollar.<br>
 > — David Ogilvy
 
-Terminy seminariów dla studiów dziennych:
-czwartki, 7.03, 21.03, 4.04, 18.04, 16.05, 30.05.
+Terminy seminariów dla studiów dziennych w s. 328, czwartki:
+**7.03, 21.03, 4.04, 18.04, 16.05, 30.05.**
 
 
 ## Rzeczy podstawowe
