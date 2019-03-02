@@ -20,11 +20,11 @@ Harmonogram dla prac **magisterskich**, których obrony są przewidziane w paźd
 * *studia dzienne*: do 30.05.2019 należy oddać pierwszą wersję pracy
 * *studia zaoczne*: do 01.06.2019 należy oddać pierwszą wersję pracy
 
-Harmonogram dla prac **licencjackich**, których obrony są przewidziane w czerwcu/lipcu:
+Harmonogram dla prac **licencjackich**, które będą oddawane na początku czerwca:
 
 * *studia zaoczne*: do 13.04.2019 należy oddać pierwszą wersję pracy
 
-Harmonogram dla prac **licencjackich**, których obrony są przewidziane w październiku/listopadzie:
+Harmonogram dla prac **licencjackich**, które będą oddawane do początku września:
 
 * *studia zaoczne*: do 01.06.2019 należy oddać pierwszą wersję pracy
 
