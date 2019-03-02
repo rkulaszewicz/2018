@@ -1,23 +1,54 @@
-## Seminarium 2018/19, semestr zimowy
+## Seminarium 2018/19, semestr letni
 
 > On the average, five times as many people read the headline as read the body copy.<br>
 > When you have written your headline, you have spent eighty cents out of your dollar.<br>
 > — David Ogilvy
 
+Terminy seminariów dla studiów dziennych w s. 328, czwartki:
+**7.03, 21.03, 4.04, 18.04, 16.05, 30.05.**
+
+
 ## Rzeczy podstawowe
 
-* **Deadline** – do końca tego semestru pierwsza wersja pracy i kod działającej aplikacji powinny
-  znaleźć się w prywatnym repozytorium na serwerze GitHub.
-  Aplikacja powinna dać się uruchomić w kontenerze Docker.
-* Aktualnie każda praca jest sprawdzana przez system [Plagiat](https://plagiat.pl).
-  Dlatego przed oddaniem pracy warto sprawdzić, czy występujące w niej teksty
-  nie zostały splagiatowane. Przykładowo bardzo bardzo prawdopodobne jest, że
-  będzie to dotyczyć fragmentów kodu zamieszczonych w pracy, bo systemy
-  (anty)plagiatowe porównują zawartość internetu z zawartością naszej pracy.
+Harmonogram dla prac **magisterskich**, których obrony są przewidziane w czerwcu/lipcu:
+
+* *studia dzienne*: do 30.04.2019 należy oddać pierwszą wersję pracy
+* *studia zaoczne*: do 13.04.2019 należy oddać pierwszą wersję pracy
+
+Harmonogram dla prac **magisterskich**, których obrony są przewidziane w październiku/listopadzie:
+
+* *studia dzienne*: do 30.05.2019 należy oddać pierwszą wersję pracy
+* *studia zaoczne*: do 01.06.2019 należy oddać pierwszą wersję pracy
+
+Harmonogram dla prac **licencjackich**, które będą oddawane na początku czerwca:
+
+* *studia zaoczne*: do 13.04.2019 należy oddać pierwszą wersję pracy
+
+Harmonogram dla prac **licencjackich**, które będą oddawane do początku września:
+
+* *studia zaoczne*: do 01.06.2019 należy oddać pierwszą wersję pracy
+
+Pierwsza wersja pracy, to wydrukowana cała praca i działający program
+(o ile jest częścią pracy). Ponadto, tekst pracy i kod działającej aplikacji powinny
+znaleźć się w prywatnym repozytorium na serwerze GitHub.
+
+<!-- Aplikacja powinna dać się uruchomić w kontenerze Docker. -->
+
+Każda praca będzie sprawdzana **Jednolitym Systemie Plagiatowym**,
+zob. [Analiza Raportu – wskazówki](https://jsa.opi.org.pl/centrum-pomocy/baza-wiedzy/analiza-raportu/).
+
+Dlatego przed oddaniem pracy warto sprawdzić, czy występujące w niej teksty
+nie zostały splagiatowane. Przykładowo bardzo bardzo prawdopodobne jest, że
+będzie to dotyczyć fragmentów kodu zamieszczonych w pracy, bo systemy
+(anty)plagiatowe porównują zawartość internetu z zawartością naszej pracy.
+
 * [Wymagane dokumenty](http://mfi.ug.edu.pl/studenci/komunikaty_dziekanatu/egzaminy_magisterskie/wymagane_dokumenty)
 * [Prace magisterskie](https://inf.ug.edu.pl/prace-magisterskie)
 * [Warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
 
+> It helps to organize your thoughts beforehand by thinking about the things<br>
+> you expect you’ll be asked and then reflecting on how you might answer [...]<br>
+> – Terry Gross
 
 Oryginał pracy należy umieścić w repozytorium prywatnym na GitHub.
 W pracach zespołowych należy zastosować się do wskazówek opisanych w artykule
