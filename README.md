@@ -54,7 +54,7 @@ Pisanie wprowadzenia i każdego (głównego) rozdziału zaczyanmy od wypełnieni
 który **helps to organize your thoughts beforehand by thinking about the things**.
 
 Gotowy do wypełnienia PDF z Message Box jest 
-[tutaj(https://github.com/seminarium/2018/blob/master/images/intro_into_story.pdf),
+[tutaj](https://github.com/seminarium/2018/blob/master/images/intro_into_story.pdf),
 a więcej informacji o nim jest [tutaj](https://www.compassscicomm.org/what-is-the-message-box).
 
 Oryginał pracy należy umieścić w repozytorium prywatnym na GitHub.
