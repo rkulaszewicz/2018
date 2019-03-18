@@ -50,9 +50,8 @@ będzie to dotyczyć fragmentów kodu zamieszczonych w pracy, bo systemy
 > you expect you’ll be asked and then reflecting on how you might answer [...]<br>
 > – Terry Gross
 
-Gotowy do wypełnienia Message Box](https://github.com/seminarium/2018/blob/master/images/intro_into_story.pdf),
+Gotowy do wypełnienia [Message Box](https://github.com/seminarium/2018/blob/master/images/intro_into_story.pdf),
 który **helps to organize your thoughts beforehand by thinking about the things**.
-
 Message Box opisano [tutaj](https://www.compassscicomm.org/what-is-the-message-box).
 
 Oryginał pracy należy umieścić w repozytorium prywatnym na GitHub.
