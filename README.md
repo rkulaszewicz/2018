@@ -50,9 +50,12 @@ będzie to dotyczyć fragmentów kodu zamieszczonych w pracy, bo systemy
 > you expect you’ll be asked and then reflecting on how you might answer [...]<br>
 > – Terry Gross
 
-Gotowy do wypełnienia [Message Box](https://github.com/seminarium/2018/blob/master/images/intro_into_story.pdf),
+Pisanie wprowadzenia i każdego (głównego) rozdziału zaczyanmy od wypełnienia **Message Box**,
 który **helps to organize your thoughts beforehand by thinking about the things**.
-Message Box opisano [tutaj](https://www.compassscicomm.org/what-is-the-message-box).
+
+Gotowy do wypełnienia PDF z Message Box jest 
+[tutaj(https://github.com/seminarium/2018/blob/master/images/intro_into_story.pdf),
+a więcej informacji o nim jest [tutaj](https://www.compassscicomm.org/what-is-the-message-box).
 
 Oryginał pracy należy umieścić w repozytorium prywatnym na GitHub.
 W pracach zespołowych należy zastosować się do wskazówek opisanych w artykule
