@@ -12,7 +12,7 @@ Terminy seminariów dla studiów dziennych w s. 328, czwartki:
 
 Harmonogram dla prac **magisterskich**, których obrony są przewidziane w czerwcu/lipcu:
 
-* *studia dzienne*: do 30.04.2019 należy oddać pierwszą wersję pracy
+* *studia dzienne*: do 07.05.2019 należy oddać pierwszą wersję pracy
 * *studia zaoczne*: do 13.04.2019 należy oddać pierwszą wersję pracy
 
 Harmonogram dla prac **magisterskich**, których obrony są przewidziane w październiku/listopadzie:
