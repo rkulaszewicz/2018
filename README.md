@@ -5,8 +5,13 @@
 > — David Ogilvy
 
 Terminy seminariów dla studiów dziennych w s. 328, czwartki:
-**7.03, 21.03, 4.04, 11.04 (g. 10:00, s. 227), 16.05, 30.05.**, dodatkowy termin **31.05. (g. 10:00, s. 122)**
+**7.03, 21.03, 4.04, 11.04 (g. 10:00, s. 227), 16.05,<br>
+30.05.**, dodatkowy termin **31.05. (g. 10:00, s. 122)**.
 
+## Wymagane dokumenty
+
+* [Egzaminy licencjackie](https://mfi.ug.edu.pl/studenci_10/studia_i_i_ii_stopnia/egzaminy_licencjackie)
+* [Egzaminy magisterskie](https://mfi.ug.edu.pl/studenci_10/studia_i_i_ii_stopnia/egzaminy_magisterskie/wymagane_dokumenty)
 
 ## Rzeczy podstawowe
 
@@ -42,15 +47,11 @@ nie zostały splagiatowane. Przykładowo bardzo bardzo prawdopodobne jest, że
 będzie to dotyczyć fragmentów kodu zamieszczonych w pracy, bo systemy
 (anty)plagiatowe porównują zawartość internetu z zawartością naszej pracy.
 
-* [Wymagane dokumenty](http://mfi.ug.edu.pl/studenci/komunikaty_dziekanatu/egzaminy_magisterskie/wymagane_dokumenty)
-* [Prace magisterskie](https://inf.ug.edu.pl/prace-magisterskie)
-* [Warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
-
 > It helps to organize your thoughts beforehand by thinking about the things<br>
 > you expect you’ll be asked and then reflecting on how you might answer [...]<br>
 > – Terry Gross
 
-Pisanie wprowadzenia i każdego (głównego) rozdziału zaczyanmy od wypełnienia **Message Box**,
+Pisanie wprowadzenia i każdego (głównego) rozdziału zaczynamy od wypełnienia **Message Box**,
 który **helps to organize your thoughts beforehand by thinking about the things**.
 
 Gotowy do wypełnienia PDF z Message Box jest 
