@@ -6,7 +6,7 @@
 
 Terminy seminariów dla studiów dziennych w s. 328, czwartki:
 **7.03, 21.03, 4.04, 11.04 (g. 10:00, s. 227), 16.05,<br>
-30.05.**, dodatkowy termin **31.05. (g. 10:00, s. 122)**.
+30.05**, dodatkowy termin **31.05 (g. 10:00, s. 122)**.
 
 ## Wymagane dokumenty
 
