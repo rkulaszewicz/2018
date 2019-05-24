@@ -10,8 +10,13 @@ Terminy seminariów dla studiów dziennych w s. 328, czwartki:
 
 ## Wymagane dokumenty
 
-* [Egzaminy licencjackie](https://mfi.ug.edu.pl/studenci_10/studia_i_i_ii_stopnia/egzaminy_licencjackie)
-* [Egzaminy magisterskie](https://mfi.ug.edu.pl/studenci_10/studia_i_i_ii_stopnia/egzaminy_magisterskie/wymagane_dokumenty)
+* [Egzaminy licencjackie](https://mfi.ug.edu.pl/studenci_10/studia_i_i_ii_stopnia/egzaminy_licencjackie).
+* [Egzaminy magisterskie](https://mfi.ug.edu.pl/studenci_10/studia_i_i_ii_stopnia/egzaminy_magisterskie/wymagane_dokumenty).
+
+See also this:
+
+* [Zakres i warunki przygotowywania w języku obcym prac dyplomowych](https://mfi.ug.edu.pl/sites/default/files/_nodes/komunikat/76010/files/angielski.pdf)
+(The scope and conditions of preparing diploma theses in a foreign language).
 
 ## Rzeczy podstawowe
 
